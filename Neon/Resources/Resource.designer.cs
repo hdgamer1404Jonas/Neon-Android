@@ -4083,10 +4083,13 @@ namespace Neon
 			public const int visible_removing_fragment_view_tag = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int withText = 2131230954;
+			public const int webView = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int wrap_content = 2131230955;
+			public const int withText = 2131230955;
+			
+			// aapt resource value: 0x7F0800EC
+			public const int wrap_content = 2131230956;
 			
 			static Id()
 			{
